@@ -15,5 +15,3 @@ to predict the quality of the cloth.
 
 3) Model Building using ML - Using ML/Dl Algorithms.
 
-4) Model Building and deployment on Heroku.
-
