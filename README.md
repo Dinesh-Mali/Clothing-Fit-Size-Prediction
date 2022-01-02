@@ -13,5 +13,5 @@ to predict the quality of the cloth.
 
 2) Feature Engineering - Processing the data before it feeding to the model.
 
-3) Model Building using ML - Using ML/Dl Algorithms.
+3) Model Building using ML - Using ML/Dl Algorithms. 
 
